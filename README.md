@@ -1,4 +1,4 @@
-### Namaste()🙏,             ### Welcome to my world
+### 🙏Welcome to my world
 [![GitHub Streak](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)](https://git.io/stock.adobe.com)
 <h1 align="center">Hi 👋, I'm Polipalli Rajesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
