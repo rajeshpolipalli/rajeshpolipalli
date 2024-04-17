@@ -1,5 +1,5 @@
 ### 🙏Welcome to my world
-[![GitHub Streak](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)](https://git.io/giphy.com)
+[![GitHub Streak](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)](https://git.io/giphy.com)
 <h1 align="center">Hi 👋, I'm Polipalli Rajesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
