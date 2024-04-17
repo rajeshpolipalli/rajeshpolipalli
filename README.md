@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Polipalli Rajesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<h2>Animated Images</h2>
+
+<p>HTML allows moving images:</p>
+
+<img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshpolipalli" alt="rajeshpolipalli" /></a> </p>
