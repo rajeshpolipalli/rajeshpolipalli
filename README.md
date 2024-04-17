@@ -2,7 +2,7 @@
 [![GitHub Streak](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)](https://i.pinimg.com)
 <h1 align="center">Hi 👋, I'm Polipalli Rajesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 <img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
 
 
